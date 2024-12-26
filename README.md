@@ -14,7 +14,7 @@
 
 </p> 
  <p align="center"> 
- <img width="" src="![aee4a70b104b4606ac6a812d6a0f14e0-free](https://github.com/user-attachments/assets/fe9001cd-37b0-483a-b613-98e580fce86e)"> 
+ <img width="" src="![aee4a70b104b4606ac6a812d6a0f14e0-free](https://github.com/user-attachments/assets/fe9001cd-37b0-483a-b613-98e580fce86e)??color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
  </p> 
 
  <p align="center"> 
