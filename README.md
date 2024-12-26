@@ -14,7 +14,7 @@
 
 </p> 
  <p align="center"> 
- <img width="" src="https://telegra.ph/file/c31a290ce6bb4e5ce63cd.png?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
+ <img width="" src="![aee4a70b104b4606ac6a812d6a0f14e0-free](https://github.com/user-attachments/assets/fe9001cd-37b0-483a-b613-98e580fce86e)"> 
  </p> 
 
  <p align="center"> 
@@ -31,7 +31,8 @@
    <a href="https://github.com/MoonContentCreator/BixbyBot-Md/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
  <br> 
  - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/fork) 
- - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/blob/master/config.js) 
+ - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏![aee4a70b104b4606ac6a812d6a0f14e0-free](https://github.com/user-attachments/assets/377ea2cd-ba18-45a1-9d8c-14457d3d10f8)
+𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/blob/master/config.js) 
 
 
 
