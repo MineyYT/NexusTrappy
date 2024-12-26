@@ -70,16 +70,23 @@
 - [x] **Configurazione** <details><summary>**Impostazioni del server - BixbyBot-MD**</summary><img src="https://telegra.ph/file/8da3c7efe17a9c17c661e.png"></details>
 ----
 
+### Codespace
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
  ### `✦ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐄 𝐃𝐈 𝐓𝐄𝐑𝐌𝐔𝐗 𝐍𝐄𝐂𝐄𝐒𝐒𝐀𝐑𝐈𝐀: `  
  https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file 
 
- ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮` 
+ ### `✦ 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 𝐏𝐄𝐑 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐋𝐀 𝐂𝐀𝐑𝐓𝐄𝐋𝐋𝐀 𝐃𝐈 NexusTrappy BOT 🔮` 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git && cd BixbyBot-Md
+ cd /sdcard && rm -rf NexusTrappy && git clone https://github.com/MineyYT/NexusTrappy.git && cd NexusTrappy
  ``` 
  COPIALO TUTTO E INCOLLALO SU TERMUX, NON COPIARE MEZZA O UNA COSA, E' TUTTO INSIEME 
 
- ### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗 `  
+ ### `✦ 𝐀𝐓𝐓𝐈𝐕𝐀 NexusTrappy BOT 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗 `  
  - 𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
  ```bash 
  termux-setup-storage 
@@ -106,11 +113,11 @@
  ```     
 
  ```bash 
- cd /sdcard && rm -rf BixbyBot && git clone https://github.com/MoonContentCreator/BixbyBot-Md.git
+ cd /sdcard && rm -rf NexusTrappy && git clone https://github.com/MineyYT/NexusTrappy.git
  ``` 
 
  ```bash 
- cd /sdcard/BixbyBot-Md 
+ cd /sdcard/NexusTrappy 
  ```   
 
  ```bash 
@@ -121,27 +128,27 @@
  npm start
  ``` 
 
- ### `✦ 𝐀𝐕𝐕𝐈𝐀 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `✦ 𝐀𝐕𝐕𝐈𝐀 NexusTrappy BOT 🔮 𝐈𝐍 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
  DIGITA QUESTI COMANDI: 
  ```bash 
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/NexusTrappy 
  ``` 
  ```bash 
  > npm start
  ``` 
 
- ### `𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝟐𝟒/𝟕 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐓𝐄𝐑𝐌𝐔𝐗` 
+ ### `NexusTrappy BOT 🔮 𝟐𝟒/𝟕 𝐀𝐜𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐓𝐄𝐑𝐌𝐔𝐗` 
 
   ```bash 
  > npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
    ``` 
 
- ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 ` 
+ ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 NexusTrappy BOT 🔮 ` 
 
  DIGITA QUESTI COMANDI: 
  ```
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/NexusTrappy
  ``` 
  ```bash 
  > rm -rf Sessioni 
@@ -158,10 +165,10 @@
  * Scarica e installa ImageMagick [`Clicca qui`](https://imagemagick.org/script/download.php) 
 
  ```bash 
- git clone https://github.com/MoonContentCreator/BixbyBot-Md 
+ git clone https://github.com/MineyYT/NexusTrappy 
  ``` 
  ```bash 
- cd BixbyBot-Md 
+ cd NexusTrappy 
  ``` 
  ```bash 
  npm install 
@@ -179,14 +186,14 @@
  ``` 
 
  --------- 
- ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 ` 
+ ### `✦ 𝐎𝐓𝐓𝐈𝐄𝐍𝐈 𝐔𝐍 𝐀𝐋𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐂𝐄 𝐐𝐑 NexusTrappy BOT 🔮 ` 
 
  𝐃𝐈𝐆𝐈𝐓𝐀 𝐐𝐔𝐄𝐒𝐓𝐈 𝐂𝐎𝐌𝐀𝐍𝐃𝐈: 
  ```bash 
  > cd  
  ``` 
  ```bash 
- > cd /sdcard/BixbyBot-Md 
+ > cd /sdcard/NexusTrappy 
  ``` 
  ```bash 
  > rm Sessioni 
@@ -195,8 +202,8 @@
  > sh start.sh 
  ``` 
  --------- 
- ### `✦ 𝐍𝐎𝐓𝐄 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮` 
-  - 𝐈𝐋 𝐁𝐎𝐓 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝 🔮 𝐄' 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋𝐄 
+ ### `✦ 𝐍𝐎𝐓𝐄 NexusTrappy BOT 🔮` 
+  - 𝐈𝐋 𝐁𝐎𝐓 NexusTrappy BOT 🔮 𝐄' 𝐂𝐎𝐌𝐏𝐀𝐓𝐈𝐁𝐈𝐋𝐄 𝐂𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐔𝐒𝐈𝐍𝐄𝐒𝐒 𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐍𝐎𝐑𝐌𝐀𝐋𝐄 
  - 𝐏𝐄𝐑 𝐁𝐋𝐎𝐂𝐂𝐀𝐑𝐄 𝐆𝐋𝐈 𝐔𝐓𝐄𝐍𝐓𝐈 𝐈𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐎 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐚𝐭𝐭𝐢𝐯𝐚 𝐚𝐧𝐭𝐢𝐩𝐫𝐢𝐯𝐚𝐭𝐨 
  - 𝐒𝐄 𝐈 𝐌𝐄𝐒𝐒𝐀𝐆𝐆𝐈 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐑𝐈𝐒𝐔𝐋𝐓𝐀𝐍𝐎 𝐈𝐍 "𝐀𝐓𝐓𝐄𝐒𝐀" 𝐄𝐒𝐄𝐆𝐔𝐈 𝐈𝐋 𝐂𝐎𝐌𝐀𝐍𝐃𝐎 .𝐝𝐬 𝐄 𝐀𝐓𝐓𝐄𝐍𝐃𝐈 𝐐𝐔𝐀𝐋𝐂𝐇𝐄 𝐈𝐒𝐓𝐀𝐍𝐓𝐄 
  --------- 
@@ -206,7 +213,4 @@
 
 --------- 
 
- ## `🌟 𝐂𝐎𝐋𝐋𝐀𝐁𝐎𝐑𝐀𝐓𝐎𝐑𝐈 `  
-<a href="https://github.com/MoonContentCreator/BixbyBot-Md/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=MoonContentCreator/BixbyBot-Md" /> 
 </a>
