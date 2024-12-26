@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['393291958600', '𝐓𝐫𝐚𝐩𝐖𝐢𝐳𝐚𝐫𝐝', true],
+  ['393291958600', 'YaNexusTrappyyy', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -59,20 +59,20 @@ global.imagen4 = fs.readFileSync('./bixbyvision16.png')
 //────────────────────────────
 
 // Sticker WM (Nome del pacchetto degli sticker)
-global.packname = '𝐍𝐞𝐱𝐮𝐬𝐓𝐫𝐚𝐩𝐩𝐲</>'
-global.author = '𝐌𝐝'
+global.packname = 'Nexus'
+global.author = 'Trappy BOT'
 
 //────────────────────────────
 
-global.vs = '𝟐.𝟐'
+global.vs = 'v1'
 
-global.nomebot = '𝐍𝐞𝐱𝐮𝐬𝐓𝐫𝐚𝐩𝐩𝐲</> 𝐌𝐃'
+global.nomebot = 'NexusTrappy BOT'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
 //────────────────────────────
 
-global.wm = '𝐍𝐞𝐱𝐮𝐬𝐓𝐫𝐚𝐩𝐩𝐲</> 𝐌𝐃 '
+global.wm = 'NexusTrappy BOT '
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...'
 
 //────────────────────────────
