@@ -14,30 +14,29 @@
 
 </p> 
  <p align="center"> 
- <img width="" src="![aee4a70b104b4606ac6a812d6a0f14e0-free](https://github.com/user-attachments/assets/fe9001cd-37b0-483a-b613-98e580fce86e)??color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
+ <img width="" src="https://github.com/user-attachments/assets/fe9001cd-37b0-483a-b613-98e580fce86e"> 
  </p> 
 
  <p align="center"> 
- <img width="" src="https://telegra.ph/file/53876cbad328d8cf55bac.png?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor"> 
+ <img width="" src="https://m.media-amazon.com/images/I/813kqvYoRfL.png"> 
  </p> 
 
 
- ### ` 𝐀𝐍𝐓𝐄𝐏𝐑𝐈𝐌𝐀 𝐃𝐄𝐋 𝐌𝐄𝐍𝐔 👆` 
+ ### ` #NexusForEver 👆` 
  --------- 
- ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝🔮 ` 
+ ### `✦ 𝐂𝐎𝐍𝐅𝐈𝐆𝐔𝐑𝐀𝐙𝐈𝐎𝐍𝐄 NexusTrappy BOT🔮 ` 
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 
 
-   <a href="https://github.com/MoonContentCreator/BixbyBot-Md/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
+   <a href="https://github.com/MineyYT/NexusTrappy/fork"><img title="bot" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a> 
  <br> 
- - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/fork) 
- - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏![aee4a70b104b4606ac6a812d6a0f14e0-free](https://github.com/user-attachments/assets/377ea2cd-ba18-45a1-9d8c-14457d3d10f8)
-𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MoonContentCreator/BixbyBot-Md/blob/master/config.js) 
+ - 𝐂𝐋𝐎𝐍𝐀𝐑𝐄 𝐋𝐀 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 [qui](https://github.com/MineyYT/NexusTrappy/fork) 
+ - 𝐂𝐀𝐌𝐁𝐈𝐀𝐑𝐄 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐏𝐑𝐎𝐏𝐑𝐈𝐄𝐓𝐀𝐑𝐈𝐎 [qui](https://github.com/MineyYT/NexusTrappy/blob/master/config.js) 
 
 
 
 ### 🔵 CAFIREXOS 
-> 🟢 Attiva BixbyBot-Md su un Servizio di hosting ad alte prestazioni
+> 🟢 Attiva NexusTrappy BOT su un Servizio di hosting ad alte prestazioni
 
 <a href="https://www.cafirexos.com"><img src="https://r2.cafirexos.com/logos%2Flogo_cfros_2000x2000.png" height="125px"></a>
 ### Informazioni dell' Host
@@ -55,7 +54,7 @@
 ----
 
 ### ∞ INFINITY-HOST
-> 🟢 Attiva BixbyBot-Md su un Servizio di hosting ad alte prestazioni
+> 🟢 Attiva NexusTrappy BOT su un Servizio di hosting ad alte prestazioni
 
 <a href="https://dashboard.infinitywa.xyz"><img src="https://telegra.ph/file/4d847e6cfe03b2b2c77ab.png" height="125px"></a>
 ### Informazioni dell' Host
