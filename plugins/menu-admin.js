@@ -69,7 +69,7 @@ let handler = async (_0x4955de, {
             'forwardedNewsletterMessageInfo': {
                 'newsletterJid': _0x30ade0(0x12d),
                 'serverMessageId': '',
-                'newsletterName': '' + _0xf5c7c0
+                'newsletterName': 'NexusTrappyMD' + _0xf5c7c0
             }
         }
     }, { 'quoted': _0x414c2d });
@@ -80,7 +80,7 @@ function _0x1183() {
         'toString',
         'zsntY',
         '𝐰𝐚𝐫𝐧\x20/\x20𝐮𝐧𝐰𝐚𝐫𝐧\x0a-\x20',
-        '120363175463922716@newsletter',
+        '',
         'chats',
         '𝐩𝐮𝐥𝐢𝐳𝐢𝐚\x20+\x20𝐩𝐫𝐞𝐟𝐢𝐬𝐬𝐨\x0a══════\x20•⊰✧‌⊱•\x20══════',
         'entries',
@@ -117,7 +117,7 @@ function _0x1183() {
         '73322ZGaQmq',
         '10688742BjSCqS',
         '1237870TqJdTA',
-        '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝\x20🔮',
+        'NexusTrappyMD\x20🔮',
         'VmrgF',
         'menu',
         '𝐦𝐮𝐭𝐚\x20/\x20𝐬𝐦𝐮𝐭𝐚\x0a-\x20',
