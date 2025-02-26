@@ -42,7 +42,7 @@ let handler = async (_0x215ece, {
             'GhFdM': function (_0x581773, _0x547044) {
                 return _0x581773 - _0x547044;
             },
-            'azkJZ': '120363175463922716@newsletter'
+            'azkJZ': '@newsletter'
         };
     let _0x1bdd1c = _0x46121c['ZUqxP'](process[_0x58ecb7(0x1d4)](), -0x13b1 + -0x693 + 0x1e2c), _0x4f10fa = _0x46121c[_0x58ecb7(0x1bc)](clockString, _0x1bdd1c), _0x151aeb = Object[_0x58ecb7(0x1e2)](global['db'][_0x58ecb7(0x1dc)][_0x58ecb7(0x1d8)])[_0x58ecb7(0x1df)];
     const _0x18dda4 = Object[_0x58ecb7(0x1cd)](_0x5629f1[_0x58ecb7(0x1c1)])[_0x58ecb7(0x1ce)](([_0xeed57a, _0x5553bf]) => _0xeed57a && _0x5553bf['isChats']), _0x5b1792 = _0x18dda4[_0x58ecb7(0x1ce)](([_0x1b121d]) => _0x1b121d[_0x58ecb7(0x1e0)]('@g.us')), _0x392522 = _0x18dda4[_0x58ecb7(0x1ce)](([_0x17954d]) => _0x17954d[_0x58ecb7(0x1e0)](_0x58ecb7(0x1e3))), _0x34dcf4 = process[_0x58ecb7(0x1ba)](), {restrict: _0x64a909} = global['db']['data']['settings'][_0x5629f1['user']['jid']] || {}, {autoread: _0x396e53} = global[_0x58ecb7(0x1d9)];
@@ -61,7 +61,7 @@ let handler = async (_0x215ece, {
             'forwardedNewsletterMessageInfo': {
                 'newsletterJid': _0x46121c[_0x58ecb7(0x1da)],
                 'serverMessageId': '',
-                'newsletterName': '' + _0x21653e
+                'newsletterName': 'NexusTrappyMD' + _0x21653e
             }
         }
     });
@@ -100,7 +100,7 @@ function _0x24c5() {
         '@g.us',
         'toString',
         '49KOGara',
-        '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝\x20🔮',
+        'NexusTrappyMD\x20🔮',
         '28812672TiIaKB',
         'tags',
         'sender',
