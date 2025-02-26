@@ -16,16 +16,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/MoonContentCreator/BixbyBot-Md",
+"homepage": "https://github.com/MineyYT/NexusTrappy",
 "author": {
-"name": "MoonContentCreator"
+"name": "NexusTrappy"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/MoonContentCreator/BixbyBot-Md.git"
+"url": "git+https://github.com/MineyYT/NexusTrappy.git"
 },
 "bugs": {
-"url": "https://github.com/MoonContentCreator/BixbyBot-Md/issues"
+"url": "https://github.com/MineyYT/NexusTrappy/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
