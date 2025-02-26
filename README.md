@@ -5,7 +5,7 @@
  <a href="https://github.com/MineyYT/followers"><img title="𝐅𝐨𝐥𝐥𝐨𝐰𝐞𝐫𝐬" src="https://img.shields.io/github/followers/MineyYT?color=red&style=flat-square"></a> 
  <a href="https://github.com/MineyYT/MoonContentCreator/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MineyYT?color=blue&style=flat-square"></a> 
  <a href="https://github.com/MineyYT/network/members"><img title="𝐅𝐨𝐫𝐤𝐬" src="https://img.shields.io/github/forks/MineyYT/NexusTrappy?color=red&style=flat-square"></a> 
- <a href="https://komarev.com/ghpvc/?username=Fabri115&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=MoonContentCreator&color=blue&style=flat-square&label=Profile+Visual" /> 
+ <a href="https://komarev.com/ghpvc/?username=MineyYT&color=blue&style=flat-square&label=Profile+Visual"><img src="https://komarev.com/ghpvc/?username=MoonContentCreator&color=blue&style=flat-square&label=Profile+Visual" /> 
  <a href="https://github.com/MineyYT/MineyYT/watchers"><img title="𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠" src="https://img.shields.io/github/watchers/MineyYT/NexusTrappy?label=Watcher'srepo&color=blue&style=flat-square"></a> 
  <a href="https://github.com/MineyYT/NexusTrappy"><img title="𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
  <a href="https://github.com/MineyYT/AyGemuy/"><img title="𝐒𝐢𝐳𝐞" src="https://img.shields.io/github/repo-size/MineyYT/NexusTrappy?style=flat-square&color=green"></a> 
@@ -70,10 +70,11 @@
 - [x] **Configurazione** <details><summary>**Impostazioni del server - BixbyBot-MD**</summary><img src="https://telegra.ph/file/8da3c7efe17a9c17c661e.png"></details>
 ----
 
-### Codespace
+### Metodi Host!
 
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/MineyYT/NexusTrappy)
+[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/TheMystic-Bot-MD)
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
