@@ -10,6 +10,6 @@ let abrazo = await conn.reply(m.chat, `@${m.sender.split('@')[0]}  sta abbraccia
 
 conn.sendMessage(m.chat, { react: { text: '🫂', key: abrazo.key }})
 }
-handler.customPrefix = /abbraccio|abbraccia/i
+handler.customPrefix = /hug<3
 handler.command = new RegExp
 export default handler
